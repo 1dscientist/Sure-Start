@@ -12,6 +12,10 @@ I had some time to look at Dr. Kong's leadership development seminar today, but 
 
 I learned about Supervised learning and Scikit-learn. Although I'm familiar with these topics, I really liked how I was clearly able to review these concepts and keep memory of them.
 
+### Answers to Short Answer Questions
+1. Supervised Learning is when you train a model based on a definite solution set, whereas unsupervised is when the computer clusters data based on similar traits/categories.
+2. Scikit Learn does not have the power to visualize data as it needs input data to do the task. It takes the data from an array or pandas dataframe. Source: https://scikit-learn.org/stable/visualizations.html
+
 ## Day 4
 
 I learned about Deep Learning and the different kinds of Machine Learning Models. The three kinds were:
