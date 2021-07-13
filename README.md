@@ -22,3 +22,14 @@ I learned about Deep Learning and the different kinds of Machine Learning Models
 - Supervised: Input should go through a model and match a pretrained labled outcome
 - Unsupervised: Input should go through a model and categorize outputs based on common traits
 - Generative: Model that trains it self through doing more beneficial things and less adversarial things
+
+A real world example of applying Deep Learning is for something like Financial Timeseries prediction. This is especially helpful in finding patterns in stock prices with hundreds of diffrent factors that may influence it. The relationships found between variables in the financial dataset for a particular stock can unlock new levels of information that a regular linear regression model may not have.
+
+See AlphaVantage.co for the dataset, its a free API limited to 5 calls a minute. 
+
+## Day 7
+
+1. Tensors are special kinds of data types that are multi-dimensional arrays of uniform type. These are used by neural networks to make more effective models and calculating linear algebra solutions.
+
+2. I noticed that I needed to find ways of manipulating the data before doing the actual work with the model.
+
