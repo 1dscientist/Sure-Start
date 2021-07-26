@@ -33,3 +33,11 @@ See AlphaVantage.co for the dataset, its a free API limited to 5 calls a minute.
 
 2. I noticed that I needed to find ways of manipulating the data before doing the actual work with the model.
 
+## Day 8
+
+**Helpful Guide**: https://serokell.io/blog/deep-learning-and-neural-network-guide
+I understood the fundementals of a neural network and a basic explanation of the different types of it.
+- Feed Forward Neural Network: Simplest kind with no backpropogation
+- Recurrent Neural Netowrk: Simple kind with backpropogation
+- Convolutional Neural Network: Where inputs connected by a small square in the image and gets finer as it progresses in the network
+- Generative Adversarial Neural Network: Unsupervised model that helps analyze deepfakes
