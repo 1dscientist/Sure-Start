@@ -36,8 +36,24 @@ See AlphaVantage.co for the dataset, its a free API limited to 5 calls a minute.
 ## Day 8
 
 **Helpful Guide**: https://serokell.io/blog/deep-learning-and-neural-network-guide
+
 I understood the fundementals of a neural network and a basic explanation of the different types of it.
 - Feed Forward Neural Network: Simplest kind with no backpropogation
 - Recurrent Neural Netowrk: Simple kind with backpropogation
 - Convolutional Neural Network: Where inputs connected by a small square in the image and gets finer as it progresses in the network
 - Generative Adversarial Neural Network: Unsupervised model that helps analyze deepfakes
+
+## Day 9 
+
+Convolutional Neural Networks are an interesting kind of neural network where data is efficiently optimized for tasks like Image Classification. I am currently using it to make my models more effective and interesting. Will update to this as I continue my CV journey!
+
+## Day 10 
+
+I really enjoyed playing the Survival game, and it exposed me to a reality I may have been oblivious to
+
+1. I think that ML was used to scan through resumés and look for suitable candidates from the applicant pool.
+2. When I think of a biased machine learning model, I may think of college application scanners which go through applications before holistic review. It may not consider external factors or the whole picture and make biased decisions immediately, causing unfortunate situations for the students involved.
+
+## Day 11
+
+MINST is an interesting Dataset that I hope to analyze. I've done it in the past but only using simple decision trees, which were not that accurate.
